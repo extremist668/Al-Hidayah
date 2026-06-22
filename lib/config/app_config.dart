@@ -4,8 +4,8 @@ class AppConfig {
   
   // Supabase Configuration
   // Note: Replace these placeholders with your actual production credentials
-  static const String supabaseUrl = 'https://your-supabase-url.supabase.co';
-  static const String supabaseAnonKey = 'your-supabase-anon-key-here-get-from-dashboard';
+  static const String supabaseUrl = 'https://skqvodwbeesyekfgusib.supabase.co';
+  static const String supabaseAnonKey = 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InNrcXZvZHdiZWVzeWVrZmd1c2liIiwicm9sZSI6ImFub24iLCJpYXQiOjE3ODIxMzY3MDksImV4cCI6MjA5NzcxMjcwOX0.iQ1BOGpukqTMJm_uZ9KFUPS-PAet38-vzxs_v-yi2m8';
 
   // API Endpoints
   static const String prayerTimesBaseUrl = 'https://api.aladhan.com/v1';
